@@ -2,7 +2,7 @@
     "context": {
         "UnitOfMeasureScale": 0.01,
         "Zup": false,
-        "RepoPath": ""
+        "RepoPath": "https://difactory.github.io/repository/models/GLB/"
     },
     "scene": [
         "pallet.1"
@@ -11,10 +11,10 @@
           {
             "id": "pallet.1",
             "descr": "pallet",
-            "type": "http://www.ontoeng.com/factory#PalletType",
+            "type": "http://www.ontoeng.com/factory#Pallet",
             "representations": [
                 {
-                    "file": "https://difactory.github.io/repository/models/GLB/Pallet.glb",
+                    "file": "Pallet.glb",
                     "unit": 1
                 }
             ],
