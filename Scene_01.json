@@ -5,11 +5,11 @@
         "RepoPath": "https://difactory.github.io/repository/models/GLB/"
     },
     "scene": [
-        "pallet.1"
+        "http://www.ontoeng.com/DFLibProduct#PalletA"
     ],
     "assets": [
           {
-            "id": "pallet.1",
+            "id": "http://www.ontoeng.com/DFLibProduct#PalletA",
             "type": "http://www.ontoeng.com/factory#PalletType",
             "descr": "pallet",
             "representations": [
