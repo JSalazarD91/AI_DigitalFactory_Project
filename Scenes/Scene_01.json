@@ -10,14 +10,24 @@
     "assets": [
           {
             "id": "pallet.1",
+            "type": "http://www.ontoeng.com/factory#PalletType",
             "descr": "pallet",
-            "type": "http://www.ontoeng.com/factory#Pallet",
             "representations": [
                 {
                     "file": "Pallet.glb",
                     "unit": 1
                 }
+            ],
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
             ]
-          }
+        }
     ]
 }
