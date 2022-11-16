@@ -12,6 +12,7 @@
             "id": "pallet.1",
             "type": "http://www.ontoeng.com/factory#PalletType",
             "descr": "pallet",
+            "model": "http://www.ontoeng.com/DFLibProduct#PalletA",
             "representations": [
                 {
                     "file": "Pallet.glb",
