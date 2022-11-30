@@ -1,0 +1,1459 @@
+{
+    "context": {
+        "UnitOfMeasureScale": 0.01,
+        "Zup": false,
+        "RepoPath": ""
+    },
+    "scene": [
+        "pallet.1",
+        "RivetingStation_Cube05",
+        "PinInsertionStation_Cube09",
+        "RivetingStation_Cube05",
+        "RotatingTableStation_Cube01",
+        "PinInsertionStation_Cube01",
+        "TightenerStation_Cube09",
+        "TightenerStation_Cube04",
+        "PinInsertionStation_Cube06",
+        "PinInsertionStation_Cube05",
+        "PinInsertionStation_Cube06",
+        "TightenerStation_Cube04",
+        "TightenerStation_Cube01",
+        "TightenerStation_Cube15",
+        "RivetingStation_Cube03",
+        "PinInsertionStation_Cube09",
+        "RivetingStation_Cube02",
+        "RivetingStation_Cube03",
+        "RivetingStation_Cube02",
+        "RotatingTableStation_Cube01",
+        "PinInsertionStation_Cube01",
+        "RivetingStation_Cube04",
+        "RotatingTableStation_Cube01",
+        "RivetingStation_Cube03",
+        "TightenerStation_Cube01",
+        "TightenerStation_Cube02",
+        "TightenerStation_Cube07",
+        "TightenerStation_Cube07",
+        "TightenerStation_Cube08",
+        "PinInsertionStation_Cube06",
+        "PinInsertionStation_Cube09",
+        "TightenerStation_Cube11",
+        "TightenerStation_Cube15",
+        "TightenerStation_Cube13",
+        "TightenerStation_Cube01",
+        "TightenerStation_Cube12",
+        "PinInsertionStation_Cube03",
+        "PinInsertionStation_Cube08",
+        "TightenerStation_Cube07",
+        "TightenerStation_Cube09",
+        "PinInsertionStation_Cube04",
+        "TightenerStation_Cube08",
+        "TightenerStation_Cube01",
+        "PinInsertionStation_Cube04",
+        "TightenerStation_Cube05",
+        "PinInsertionStation_Cube06",
+        "PinInsertionStation_Cube03",
+        "TightenerStation_Cube08",
+        "TightenerStation_Cube01",
+        "RotatingTableStation_Cube01",
+        "PinInsertionStation_Cube01",
+        "PinInsertionStation_Cube06",
+        "PinInsertionStation_Cube08",
+        "TightenerStation_Cube13",
+        "PinInsertionStation_Cube10",
+        "TightenerStation_Cube06",
+        "TightenerStation_Cube12",
+        "RotatingTableStation_Cube02",
+        "PinInsertionStation_Cube05",
+        "PinInsertionStation_Cube10",
+        "RivetingStation_Cube04",
+        "TightenerStation_Cube11",
+        "TightenerStation_Cube12",
+        "RivetingStation_Cube04",
+        "TightenerStation_Cube12",
+        "TightenerStation_Cube02"
+    ],
+    "assets": [
+        {
+            "id": "pallet.1",
+            "descr": "pallet",
+            "type": "http://www.ontoeng.com/factory#Pallet",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/models/Pallet.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0,
+                0,
+                50
+            ],
+            "rotation": [
+                0.2834081873466877,
+                -2.7153015228918784,
+                0
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube05",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.0,
+                0,
+                0.0
+            ],
+            "rotation": [
+                65,
+                281,
+                221
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube09",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube09.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.32,
+                0,
+                0.0
+            ],
+            "rotation": [
+                101,
+                124,
+                345
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube05",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.64,
+                0,
+                0.0
+            ],
+            "rotation": [
+                115,
+                15,
+                220
+            ]
+        },
+        {
+            "id": "RotatingTableStation_Cube01",
+            "descr": "RotatingTableStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RotatingTableStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.96,
+                0,
+                0.0
+            ],
+            "rotation": [
+                14,
+                220,
+                205
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube01",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1.28,
+                0,
+                0.0
+            ],
+            "rotation": [
+                286,
+                291,
+                200
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube09",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube09.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1.6,
+                0,
+                0.0
+            ],
+            "rotation": [
+                103,
+                263,
+                5
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube04",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1.92,
+                0,
+                0.0
+            ],
+            "rotation": [
+                132,
+                291,
+                316
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube06",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2.24,
+                0,
+                0.0
+            ],
+            "rotation": [
+                6,
+                72,
+                30
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube05",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2.56,
+                0,
+                0.0
+            ],
+            "rotation": [
+                27,
+                201,
+                226
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube06",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2.88,
+                0,
+                0.0
+            ],
+            "rotation": [
+                269,
+                332,
+                24
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube04",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3.2,
+                0,
+                0.0
+            ],
+            "rotation": [
+                326,
+                112,
+                345
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube01",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3.52,
+                0,
+                0.0
+            ],
+            "rotation": [
+                73,
+                333,
+                271
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube15",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube15.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3.84,
+                0,
+                0.0
+            ],
+            "rotation": [
+                90,
+                204,
+                265
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube03",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4.16,
+                0,
+                0.0
+            ],
+            "rotation": [
+                72,
+                17,
+                4
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube09",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube09.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4.48,
+                0,
+                0.0
+            ],
+            "rotation": [
+                56,
+                272,
+                289
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube02",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4.8,
+                0,
+                0.0
+            ],
+            "rotation": [
+                172,
+                188,
+                60
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube03",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5.12,
+                0,
+                0.0
+            ],
+            "rotation": [
+                290,
+                84,
+                32
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube02",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5.44,
+                0,
+                0.0
+            ],
+            "rotation": [
+                282,
+                242,
+                15
+            ]
+        },
+        {
+            "id": "RotatingTableStation_Cube01",
+            "descr": "RotatingTableStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RotatingTableStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5.76,
+                0,
+                0.0
+            ],
+            "rotation": [
+                233,
+                346,
+                339
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube01",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6.08,
+                0,
+                0.0
+            ],
+            "rotation": [
+                266,
+                43,
+                106
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube04",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6.4,
+                0,
+                0.0
+            ],
+            "rotation": [
+                88,
+                339,
+                292
+            ]
+        },
+        {
+            "id": "RotatingTableStation_Cube01",
+            "descr": "RotatingTableStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RotatingTableStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6.72,
+                0,
+                0.0
+            ],
+            "rotation": [
+                300,
+                108,
+                130
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube03",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7.04,
+                0,
+                0.0
+            ],
+            "rotation": [
+                240,
+                226,
+                268
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube01",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7.36,
+                0,
+                0.0
+            ],
+            "rotation": [
+                10,
+                198,
+                101
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube02",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7.68,
+                0,
+                0.0
+            ],
+            "rotation": [
+                344,
+                228,
+                122
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube07",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube07.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.0,
+                0,
+                0.0
+            ],
+            "rotation": [
+                142,
+                46,
+                196
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube07",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube07.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.32,
+                0,
+                0.0
+            ],
+            "rotation": [
+                320,
+                80,
+                258
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube08",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.64,
+                0,
+                0.0
+            ],
+            "rotation": [
+                92,
+                90,
+                305
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube06",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.96,
+                0,
+                0.0
+            ],
+            "rotation": [
+                30,
+                178,
+                107
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube09",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube09.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9.28,
+                0,
+                0.0
+            ],
+            "rotation": [
+                187,
+                299,
+                278
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube11",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube11.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9.6,
+                0,
+                0.0
+            ],
+            "rotation": [
+                25,
+                100,
+                206
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube15",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube15.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9.92,
+                0,
+                0.0
+            ],
+            "rotation": [
+                188,
+                324,
+                274
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube01",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.0,
+                0,
+                0.0
+            ],
+            "rotation": [
+                295,
+                61,
+                230
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube12",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube12.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.32,
+                0,
+                0.0
+            ],
+            "rotation": [
+                313,
+                134,
+                77
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube03",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.64,
+                0,
+                0.0
+            ],
+            "rotation": [
+                295,
+                302,
+                315
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube08",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0.96,
+                0,
+                0.0
+            ],
+            "rotation": [
+                5,
+                195,
+                355
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube07",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube07.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1.28,
+                0,
+                0.0
+            ],
+            "rotation": [
+                344,
+                233,
+                218
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube09",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube09.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1.6,
+                0,
+                0.0
+            ],
+            "rotation": [
+                285,
+                70,
+                325
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube04",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1.92,
+                0,
+                0.0
+            ],
+            "rotation": [
+                227,
+                257,
+                95
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube08",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2.24,
+                0,
+                0.0
+            ],
+            "rotation": [
+                46,
+                231,
+                330
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube01",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2.56,
+                0,
+                0.0
+            ],
+            "rotation": [
+                102,
+                21,
+                142
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube04",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2.88,
+                0,
+                0.0
+            ],
+            "rotation": [
+                348,
+                131,
+                138
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube05",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3.2,
+                0,
+                0.0
+            ],
+            "rotation": [
+                123,
+                350,
+                255
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube06",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3.52,
+                0,
+                0.0
+            ],
+            "rotation": [
+                270,
+                92,
+                133
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube03",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3.84,
+                0,
+                0.0
+            ],
+            "rotation": [
+                198,
+                195,
+                63
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube08",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4.16,
+                0,
+                0.0
+            ],
+            "rotation": [
+                315,
+                26,
+                63
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube01",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4.48,
+                0,
+                0.0
+            ],
+            "rotation": [
+                360,
+                299,
+                35
+            ]
+        },
+        {
+            "id": "RotatingTableStation_Cube01",
+            "descr": "RotatingTableStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RotatingTableStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4.8,
+                0,
+                0.0
+            ],
+            "rotation": [
+                109,
+                53,
+                213
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube01",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5.12,
+                0,
+                0.0
+            ],
+            "rotation": [
+                180,
+                205,
+                23
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube06",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5.44,
+                0,
+                0.0
+            ],
+            "rotation": [
+                17,
+                172,
+                219
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube08",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5.76,
+                0,
+                0.0
+            ],
+            "rotation": [
+                130,
+                149,
+                327
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube13",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube13.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6.08,
+                0,
+                0.0
+            ],
+            "rotation": [
+                92,
+                20,
+                158
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube10",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube10.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6.4,
+                0,
+                0.0
+            ],
+            "rotation": [
+                349,
+                202,
+                259
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube06",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6.72,
+                0,
+                0.0
+            ],
+            "rotation": [
+                233,
+                221,
+                67
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube12",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube12.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7.04,
+                0,
+                0.0
+            ],
+            "rotation": [
+                243,
+                170,
+                223
+            ]
+        },
+        {
+            "id": "RotatingTableStation_Cube02",
+            "descr": "RotatingTableStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RotatingTableStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7.36,
+                0,
+                0.0
+            ],
+            "rotation": [
+                176,
+                310,
+                351
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube05",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7.68,
+                0,
+                0.0
+            ],
+            "rotation": [
+                201,
+                222,
+                343
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube10",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/PinInsertionStation_Cube10.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.0,
+                0,
+                0.0
+            ],
+            "rotation": [
+                220,
+                201,
+                16
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube04",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.32,
+                0,
+                0.0
+            ],
+            "rotation": [
+                156,
+                16,
+                185
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube11",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube11.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.64,
+                0,
+                0.0
+            ],
+            "rotation": [
+                125,
+                262,
+                261
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube12",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube12.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8.96,
+                0,
+                0.0
+            ],
+            "rotation": [
+                283,
+                289,
+                64
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube04",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/RivetingStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9.28,
+                0,
+                0.0
+            ],
+            "rotation": [
+                160,
+                146,
+                6
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube12",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube12.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9.6,
+                0,
+                0.0
+            ],
+            "rotation": [
+                280,
+                296,
+                133
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube02",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "https://raw.githubusercontent.com/JSalazarD91/AI_DigitalFactory_Project/main/cube_models/TightenerStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9.92,
+                0,
+                0.0
+            ],
+            "rotation": [
+                237,
+                101,
+                219
+            ]
+        }
+    ],
+    "cameras": [
+        {
+            "id": "camera.1",
+            "type": "FlyCamera",
+            "position": [
+                133.65946097494611,
+                92.63437661778377,
+                268.7779819679474
+            ],
+            "rotation": [
+                0.2834081873466877,
+                -2.7153015228918784,
+                0
+            ],
+            "speed": 8
+        }
+    ]
+}
