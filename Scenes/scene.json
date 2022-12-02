@@ -6,38 +6,38 @@
     },
     "scene": [
         "pallet.1",
+        "TightenerStation_Cube02.0",
+        "PinInsertionStation_Cube01.0",
+        "TightenerStation_Cube15.0",
+        "PinInsertionStation_Cube08.0",
+        "RivetingStation_Cube03.0",
+        "TightenerStation_Cube11.0",
+        "TightenerStation_Cube15.0",
+        "TightenerStation_Cube15.0",
+        "PinInsertionStation_Cube04.0",
+        "TightenerStation_Cube08.0",
+        "RivetingStation_Cube01.0",
+        "PinInsertionStation_Cube04.0",
+        "TightenerStation_Cube13.0",
+        "PinInsertionStation_Cube07.0",
+        "TightenerStation_Cube13.0",
+        "RivetingStation_Cube03.0",
+        "TightenerStation_Cube14.0",
+        "TightenerStation_Cube02.0",
+        "TightenerStation_Cube11.0",
+        "RivetingStation_Cube05.0",
+        "PinInsertionStation_Cube08.0",
+        "TightenerStation_Cube04.0",
+        "RivetingStation_Cube01.0",
         "TightenerStation_Cube03.0",
-        "TightenerStation_Cube15.1",
-        "RivetingStation_Cube04.2",
-        "RivetingStation_Cube02.3",
-        "RotatingTableStation_Cube01.4",
-        "TightenerStation_Cube09.5",
-        "RotatingTableStation_Cube02.6",
-        "PinInsertionStation_Cube07.7",
-        "PinInsertionStation_Cube08.8",
-        "TightenerStation_Cube04.9",
-        "PinInsertionStation_Cube03.10",
-        "TightenerStation_Cube04.11",
-        "TightenerStation_Cube04.12",
-        "RotatingTableStation_Cube02.13",
-        "TightenerStation_Cube06.14",
-        "TightenerStation_Cube11.15",
-        "TightenerStation_Cube10.16",
-        "RivetingStation_Cube03.17",
-        "RivetingStation_Cube01.18",
-        "RotatingTableStation_Cube02.19",
-        "TightenerStation_Cube02.20",
-        "TightenerStation_Cube14.21",
-        "RivetingStation_Cube03.22",
-        "TightenerStation_Cube09.23",
-        "PinInsertionStation_Cube05.24",
-        "RivetingStation_Cube02.25",
-        "TightenerStation_Cube02.26",
-        "TightenerStation_Cube07.27",
-        "PinInsertionStation_Cube10.28",
-        "TightenerStation_Cube05.29",
-        "PinInsertionStation_Cube05.30",
-        "TightenerStation_Cube07.31"
+        "PinInsertionStation_Cube06.0",
+        "TightenerStation_Cube15.0",
+        "TightenerStation_Cube08.0",
+        "RivetingStation_Cube04.0",
+        "RivetingStation_Cube01.0",
+        "PinInsertionStation_Cube10.0",
+        "RivetingStation_Cube05.0",
+        "TightenerStation_Cube05.0"
     ],
     "assets": [
         {
@@ -62,6 +62,489 @@
             ]
         },
         {
+            "id": "TightenerStation_Cube02.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0,
+                0,
+                0.0
+            ],
+            "rotation": [
+                285,
+                226,
+                157
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube01.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                1,
+                0,
+                0.0
+            ],
+            "rotation": [
+                221,
+                55,
+                118
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube15.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube15.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                2,
+                0,
+                0.0
+            ],
+            "rotation": [
+                145,
+                283,
+                3
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube08.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                3,
+                0,
+                0.0
+            ],
+            "rotation": [
+                118,
+                190,
+                280
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube03.0",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "RivetingStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                4,
+                0,
+                0.0
+            ],
+            "rotation": [
+                58,
+                239,
+                180
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube11.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube11.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                5,
+                0,
+                0.0
+            ],
+            "rotation": [
+                180,
+                193,
+                250
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube15.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube15.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                6,
+                0,
+                0.0
+            ],
+            "rotation": [
+                86,
+                4,
+                336
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube15.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube15.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                7,
+                0,
+                0.0
+            ],
+            "rotation": [
+                118,
+                303,
+                139
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube04.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                8,
+                0,
+                0.0
+            ],
+            "rotation": [
+                70,
+                269,
+                266
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube08.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                9,
+                0,
+                0.0
+            ],
+            "rotation": [
+                338,
+                346,
+                345
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube01.0",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "RivetingStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                10,
+                0,
+                0.0
+            ],
+            "rotation": [
+                330,
+                69,
+                244
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube04.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                11,
+                0,
+                0.0
+            ],
+            "rotation": [
+                212,
+                227,
+                333
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube13.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube13.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                12,
+                0,
+                0.0
+            ],
+            "rotation": [
+                199,
+                228,
+                75
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube07.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube07.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                13,
+                0,
+                0.0
+            ],
+            "rotation": [
+                132,
+                248,
+                176
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube13.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube13.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                14,
+                0,
+                0.0
+            ],
+            "rotation": [
+                104,
+                71,
+                54
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube03.0",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "RivetingStation_Cube03.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                15,
+                0,
+                0.0
+            ],
+            "rotation": [
+                46,
+                1,
+                180
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube14.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube14.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                16,
+                0,
+                0.0
+            ],
+            "rotation": [
+                113,
+                109,
+                62
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube02.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube02.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                17,
+                0,
+                0.0
+            ],
+            "rotation": [
+                138,
+                211,
+                190
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube11.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube11.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                18,
+                0,
+                0.0
+            ],
+            "rotation": [
+                130,
+                126,
+                146
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube05.0",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "RivetingStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                19,
+                0,
+                0.0
+            ],
+            "rotation": [
+                173,
+                304,
+                53
+            ]
+        },
+        {
+            "id": "PinInsertionStation_Cube08.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                20,
+                0,
+                0.0
+            ],
+            "rotation": [
+                139,
+                358,
+                270
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube04.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube04.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                21,
+                0,
+                0.0
+            ],
+            "rotation": [
+                161,
+                58,
+                4
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube01.0",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "RivetingStation_Cube01.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                22,
+                0,
+                0.0
+            ],
+            "rotation": [
+                46,
+                253,
+                194
+            ]
+        },
+        {
             "id": "TightenerStation_Cube03.0",
             "descr": "TightenerStation",
             "type": "http://www.ontoeng.com/factory#MachineTool",
@@ -72,18 +555,39 @@
                 }
             ],
             "position": [
-                0.0,
+                23,
                 0,
                 0.0
             ],
             "rotation": [
-                287,
-                10,
-                346
+                195,
+                180,
+                215
             ]
         },
         {
-            "id": "TightenerStation_Cube15.1",
+            "id": "PinInsertionStation_Cube06.0",
+            "descr": "PinInsertionStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "PinInsertionStation_Cube06.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                24,
+                0,
+                0.0
+            ],
+            "rotation": [
+                127,
+                203,
+                304
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube15.0",
             "descr": "TightenerStation",
             "type": "http://www.ontoeng.com/factory#MachineTool",
             "representations": [
@@ -93,18 +597,39 @@
                 }
             ],
             "position": [
-                0.32,
+                25,
                 0,
                 0.0
             ],
             "rotation": [
-                318,
-                353,
-                5
+                343,
+                152,
+                147
             ]
         },
         {
-            "id": "RivetingStation_Cube04.2",
+            "id": "TightenerStation_Cube08.0",
+            "descr": "TightenerStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "TightenerStation_Cube08.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                26,
+                0,
+                0.0
+            ],
+            "rotation": [
+                240,
+                282,
+                235
+            ]
+        },
+        {
+            "id": "RivetingStation_Cube04.0",
             "descr": "RivetingStation",
             "type": "http://www.ontoeng.com/factory#MachineTool",
             "representations": [
@@ -114,333 +639,18 @@
                 }
             ],
             "position": [
-                0.64,
+                27,
                 0,
                 0.0
             ],
             "rotation": [
-                156,
+                38,
                 110,
-                215
+                211
             ]
         },
         {
-            "id": "RivetingStation_Cube02.3",
-            "descr": "RivetingStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RivetingStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                0.96,
-                0,
-                0.0
-            ],
-            "rotation": [
-                103,
-                348,
-                270
-            ]
-        },
-        {
-            "id": "RotatingTableStation_Cube01.4",
-            "descr": "RotatingTableStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RotatingTableStation_Cube01.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                1.28,
-                0,
-                0.0
-            ],
-            "rotation": [
-                243,
-                165,
-                258
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube09.5",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube09.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                1.6,
-                0,
-                0.0
-            ],
-            "rotation": [
-                64,
-                18,
-                111
-            ]
-        },
-        {
-            "id": "RotatingTableStation_Cube02.6",
-            "descr": "RotatingTableStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RotatingTableStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                1.92,
-                0,
-                0.0
-            ],
-            "rotation": [
-                134,
-                292,
-                237
-            ]
-        },
-        {
-            "id": "PinInsertionStation_Cube07.7",
-            "descr": "PinInsertionStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "PinInsertionStation_Cube07.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                2.24,
-                0,
-                0.0
-            ],
-            "rotation": [
-                19,
-                104,
-                73
-            ]
-        },
-        {
-            "id": "PinInsertionStation_Cube08.8",
-            "descr": "PinInsertionStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "PinInsertionStation_Cube08.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                2.56,
-                0,
-                0.0
-            ],
-            "rotation": [
-                145,
-                351,
-                120
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube04.9",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube04.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                2.88,
-                0,
-                0.0
-            ],
-            "rotation": [
-                84,
-                268,
-                203
-            ]
-        },
-        {
-            "id": "PinInsertionStation_Cube03.10",
-            "descr": "PinInsertionStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "PinInsertionStation_Cube03.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                3.2,
-                0,
-                0.0
-            ],
-            "rotation": [
-                92,
-                15,
-                335
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube04.11",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube04.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                3.52,
-                0,
-                0.0
-            ],
-            "rotation": [
-                183,
-                128,
-                216
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube04.12",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube04.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                3.84,
-                0,
-                0.0
-            ],
-            "rotation": [
-                61,
-                288,
-                223
-            ]
-        },
-        {
-            "id": "RotatingTableStation_Cube02.13",
-            "descr": "RotatingTableStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RotatingTableStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                4.16,
-                0,
-                0.0
-            ],
-            "rotation": [
-                147,
-                294,
-                263
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube06.14",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube06.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                4.48,
-                0,
-                0.0
-            ],
-            "rotation": [
-                4,
-                300,
-                254
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube11.15",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube11.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                4.8,
-                0,
-                0.0
-            ],
-            "rotation": [
-                93,
-                215,
-                196
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube10.16",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube10.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                5.12,
-                0,
-                0.0
-            ],
-            "rotation": [
-                180,
-                266,
-                256
-            ]
-        },
-        {
-            "id": "RivetingStation_Cube03.17",
-            "descr": "RivetingStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RivetingStation_Cube03.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                5.44,
-                0,
-                0.0
-            ],
-            "rotation": [
-                248,
-                327,
-                116
-            ]
-        },
-        {
-            "id": "RivetingStation_Cube01.18",
+            "id": "RivetingStation_Cube01.0",
             "descr": "RivetingStation",
             "type": "http://www.ontoeng.com/factory#MachineTool",
             "representations": [
@@ -450,207 +660,18 @@
                 }
             ],
             "position": [
-                5.76,
+                28,
                 0,
                 0.0
             ],
             "rotation": [
-                151,
-                34,
-                110
+                76,
+                357,
+                194
             ]
         },
         {
-            "id": "RotatingTableStation_Cube02.19",
-            "descr": "RotatingTableStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RotatingTableStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                6.08,
-                0,
-                0.0
-            ],
-            "rotation": [
-                180,
-                333,
-                134
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube02.20",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                6.4,
-                0,
-                0.0
-            ],
-            "rotation": [
-                276,
-                286,
-                266
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube14.21",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube14.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                6.72,
-                0,
-                0.0
-            ],
-            "rotation": [
-                267,
-                201,
-                119
-            ]
-        },
-        {
-            "id": "RivetingStation_Cube03.22",
-            "descr": "RivetingStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RivetingStation_Cube03.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                7.04,
-                0,
-                0.0
-            ],
-            "rotation": [
-                339,
-                329,
-                107
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube09.23",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube09.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                7.36,
-                0,
-                0.0
-            ],
-            "rotation": [
-                321,
-                6,
-                155
-            ]
-        },
-        {
-            "id": "PinInsertionStation_Cube05.24",
-            "descr": "PinInsertionStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "PinInsertionStation_Cube05.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                7.68,
-                0,
-                0.0
-            ],
-            "rotation": [
-                16,
-                91,
-                144
-            ]
-        },
-        {
-            "id": "RivetingStation_Cube02.25",
-            "descr": "RivetingStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "RivetingStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                8.0,
-                0,
-                0.0
-            ],
-            "rotation": [
-                82,
-                102,
-                47
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube02.26",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube02.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                8.32,
-                0,
-                0.0
-            ],
-            "rotation": [
-                342,
-                116,
-                323
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube07.27",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube07.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                8.64,
-                0,
-                0.0
-            ],
-            "rotation": [
-                238,
-                56,
-                325
-            ]
-        },
-        {
-            "id": "PinInsertionStation_Cube10.28",
+            "id": "PinInsertionStation_Cube10.0",
             "descr": "PinInsertionStation",
             "type": "http://www.ontoeng.com/factory#MachineTool",
             "representations": [
@@ -660,18 +681,39 @@
                 }
             ],
             "position": [
-                8.96,
+                29,
                 0,
                 0.0
             ],
             "rotation": [
-                324,
-                287,
-                146
+                314,
+                108,
+                306
             ]
         },
         {
-            "id": "TightenerStation_Cube05.29",
+            "id": "RivetingStation_Cube05.0",
+            "descr": "RivetingStation",
+            "type": "http://www.ontoeng.com/factory#MachineTool",
+            "representations": [
+                {
+                    "file": "RivetingStation_Cube05.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                30,
+                0,
+                0.0
+            ],
+            "rotation": [
+                309,
+                201,
+                160
+            ]
+        },
+        {
+            "id": "TightenerStation_Cube05.0",
             "descr": "TightenerStation",
             "type": "http://www.ontoeng.com/factory#MachineTool",
             "representations": [
@@ -681,56 +723,14 @@
                 }
             ],
             "position": [
-                9.28,
+                31,
                 0,
                 0.0
             ],
             "rotation": [
-                10,
-                11,
-                354
-            ]
-        },
-        {
-            "id": "PinInsertionStation_Cube05.30",
-            "descr": "PinInsertionStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "PinInsertionStation_Cube05.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                9.6,
-                0,
-                0.0
-            ],
-            "rotation": [
-                360,
-                283,
-                41
-            ]
-        },
-        {
-            "id": "TightenerStation_Cube07.31",
-            "descr": "TightenerStation",
-            "type": "http://www.ontoeng.com/factory#MachineTool",
-            "representations": [
-                {
-                    "file": "TightenerStation_Cube07.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                9.92,
-                0,
-                0.0
-            ],
-            "rotation": [
-                326,
-                191,
-                121
+                16,
+                335,
+                244
             ]
         }
     ],
